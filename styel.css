@@ -68,7 +68,7 @@ body{
 }
 .img{
     animation: test 3s ease 0s 1 reverse forwards;
-    transform: translateX(170px);
+
     }
 @keyframes test {
 0%,
